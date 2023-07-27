@@ -24,15 +24,23 @@
 - [G-Research Crypto Forecasting (2021)](https://www.kaggle.com/competitions/g-research-crypto-forecasting)
 - [Optiver Realized Volatility Prediction (2021)](https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/overview)
 - [Jane Street Future Market Prediction (2021)](https://www.kaggle.com/c/jane-street-market-prediction/)
+- [Two Sigma: Using News to Predict Stock Movements (2018)](https://www.kaggle.com/competitions/two-sigma-financial-news)
+- [Sberbank Russian Housing Market (2017)](https://www.kaggle.com/competitions/sberbank-russian-housing-market/data?select=train.csv.zip)
+- [Two Sigma Financial Modeling Challenge (2016)](https://www.kaggle.com/competitions/two-sigma-financial-modeling/overview)
 - [The Winton Stock Market Challenge (2015)](https://www.kaggle.com/competitions/the-winton-stock-market-challenge)
 
 ### Time Series but not Financial
 
+- [GoDaddy - Microbusiness Density Forecasting (2022)](https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting/overview)
 - [M5 Forecasting - Accuracy (2020)](https://www.kaggle.com/competitions/m5-forecasting-accuracy)
 - [M5 Forecasting - Uncertainty (2020)](https://www.kaggle.com/competitions/m5-forecasting-uncertainty/leaderboard?tab=public)
-- [Rossmann Store Sales (2015)](https://www.kaggle.com/competitions/rossmann-store-sales/code?competitionId=4594&sortBy=scoreAscending)
-- [GoDaddy - Microbusiness Density Forecasting (2022)](https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting/overview)
 - [Corporación Favorita Grocery Sales Forecasting (2017)](https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/overview)
+- [Recruit Restaurant Visitor Forecasting (2017)](https://www.kaggle.com/competitions/recruit-restaurant-visitor-forecasting/overview)
+- [Web Traffic Time Series Forecasting (2017)](https://www.kaggle.com/competitions/web-traffic-time-series-forecasting/overview)
+- [Grupo Bimbo Inventory Demand (2016)](https://www.kaggle.com/c/grupo-bimbo-inventory-demand)
+- [Rossmann Store Sales (2015)](https://www.kaggle.com/competitions/rossmann-store-sales/code?competitionId=4594&sortBy=scoreAscending)
+- [Walmart Recruiting II: Sales in Stormy Weather (2015)](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)
+- [Walmart Recruiting - Store Sales Forecasting (2014)](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 - [Store Sales - Time Series Forecasting (For Beginners)](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
 
 ### Financial but not Time Series
@@ -40,8 +48,6 @@
 - [American Express - Default Prediction (2022)](https://www.kaggle.com/competitions/amex-default-prediction/code)
 - [Home Credit Default Risk (2018)](https://www.kaggle.com/competitions/home-credit-default-risk/data)
 - [House Prices - Advanced Regression Techniques (For Beginners)](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
-
-
 
 # YouTube Tutorials
 
